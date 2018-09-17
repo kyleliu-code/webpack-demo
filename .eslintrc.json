@@ -1,0 +1,7 @@
+{
+    "extends": "google",
+    "rules": {
+        "comma-dangle": ["never"],
+        "semi-style": ["error", "last"]
+    }
+}
